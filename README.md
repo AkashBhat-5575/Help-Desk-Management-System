@@ -126,7 +126,7 @@ Example:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Help-Desk-Management-System.git
+git clone https://github.com/AkashBhat-5575/Help-Desk-Management-System.git
 ```
 
 2. Import the project into Eclipse.
@@ -143,7 +143,7 @@ git clone https://github.com/YOUR_USERNAME/Help-Desk-Management-System.git
 
 **Akash Bhat**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/AkashBhat-5575
 
 ---
 
