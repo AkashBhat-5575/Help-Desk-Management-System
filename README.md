@@ -28,7 +28,6 @@ A web-based Help Desk Management System developed using Java, JSP, Servlets, Hib
 - Java
 - JSP
 - Servlets
-- Hibernate ORM
 - MySQL
 - HTML5
 - CSS3
@@ -143,10 +142,6 @@ git clone https://github.com/YOUR_USERNAME/Help-Desk-Management-System.git
 ## Author
 
 **Akash Bhat**
-
-B.Tech Computer Science Engineering (Cybersecurity)
-
-MIT ADT University, Pune
 
 GitHub: https://github.com/YOUR_USERNAME
 
