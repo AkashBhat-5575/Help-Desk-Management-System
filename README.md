@@ -139,6 +139,19 @@ git clone https://github.com/AkashBhat-5575/Help-Desk-Management-System.git
 
 ---
 
+## Database Setup
+
+1. Open MySQL Workbench.
+2. Create a new database named `help_desk`, or simply run:
+
+```sql
+SOURCE database/help_desk.sql;
+```
+
+3. Update the database credentials in `ConnectionUtil.java`.
+4. Run the project on Apache Tomcat.
+
+
 ## Author
 
 **Akash Bhat**
